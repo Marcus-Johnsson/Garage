@@ -54,3 +54,18 @@ C:\Users\Marcus\OneDrive\System 24\Kod\repos\Garage_1.3Interface\Garage 1.1\obj\
 C:\Users\Marcus\OneDrive\System 24\Kod\repos\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.pdb
 C:\Users\Marcus\OneDrive\System 24\Kod\repos\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.genruntimeconfig.cache
 C:\Users\Marcus\OneDrive\System 24\Kod\repos\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\ref\Garage1.1.dll
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\bin\Debug\net8.0\Garage1.1.exe
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\bin\Debug\net8.0\Garage1.1.deps.json
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\bin\Debug\net8.0\Garage1.1.runtimeconfig.json
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\bin\Debug\net8.0\Garage1.1.dll
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\bin\Debug\net8.0\Garage1.1.pdb
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.AssemblyInfoInputs.cache
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.AssemblyInfo.cs
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.csproj.CoreCompileInputs.cache
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.sourcelink.json
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.dll
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\refint\Garage1.1.dll
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.pdb
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\Garage1.1.genruntimeconfig.cache
+C:\Users\BoneToad\OneDrive\System 24\Kod\repos\Test git\Garage\Garage_1.3Interface\Garage 1.1\obj\Debug\net8.0\ref\Garage1.1.dll

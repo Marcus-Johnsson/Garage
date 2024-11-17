@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BoneToad\\OneDrive\\System 24\\Kod\\repos\\Garage_1.3Interface\\Garage 1.1\\Garage1.1.csproj",
+      "projectUniqueName": "C:\\Users\\BoneToad\\OneDrive\\System 24\\Kod\\repos\\Test git\\Garage\\Garage_1.3Interface\\Garage 1.1\\Garage1.1.csproj",
       "projectName": "Garage1.1",
-      "projectPath": "C:\\Users\\BoneToad\\OneDrive\\System 24\\Kod\\repos\\Garage_1.3Interface\\Garage 1.1\\Garage1.1.csproj",
+      "projectPath": "C:\\Users\\BoneToad\\OneDrive\\System 24\\Kod\\repos\\Test git\\Garage\\Garage_1.3Interface\\Garage 1.1\\Garage1.1.csproj",
       "packagesPath": "C:\\Users\\BoneToad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BoneToad\\OneDrive\\System 24\\Kod\\repos\\Garage_1.3Interface\\Garage 1.1\\obj\\",
+      "outputPath": "C:\\Users\\BoneToad\\OneDrive\\System 24\\Kod\\repos\\Test git\\Garage\\Garage_1.3Interface\\Garage 1.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

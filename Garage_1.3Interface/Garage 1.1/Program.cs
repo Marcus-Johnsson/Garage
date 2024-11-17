@@ -189,11 +189,11 @@ namespace Garage_1._1
         {
             // The boxes on the right side
 
-            Console.SetCursorPosition(145, UIsett.cursorYPosition);
+            Console.SetCursorPosition(137, UIsett.cursorYPosition);
             Console.ResetColor();
             Console.WriteLine("+------------------------------+");
             Console.ResetColor();
-            Console.SetCursorPosition(145, UIsett.cursorYPosition - 1);
+            Console.SetCursorPosition(137, UIsett.cursorYPosition - 1);
             Console.Write("| ");
             switch (vehicleType)
             {
@@ -212,9 +212,9 @@ namespace Garage_1._1
             Console.Write(" " + plateReg + " payed " + cash);
             Console.ResetColor();
 
-            Console.SetCursorPosition(176, UIsett.cursorYPosition - 1);
+            Console.SetCursorPosition(168, UIsett.cursorYPosition - 1);
             Console.WriteLine("|");
-            Console.SetCursorPosition(145, UIsett.cursorYPosition - 2);
+            Console.SetCursorPosition(137, UIsett.cursorYPosition - 2);
             Console.ResetColor();
             Console.WriteLine("+------------------------------+");
             Console.ResetColor();
